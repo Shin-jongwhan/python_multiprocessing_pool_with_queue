@@ -18,7 +18,7 @@ def md5sum(sFile) :
 
 if __name__ == "__main__":
     # num of multiprocess
-    n_process = 16
+    n_process = 8
     p = Pool(n_process)
     lsFile = glob.glob("C:\\Users\\신종환\\Downloads\\**", recursive = True)
     #print(lsFile)
