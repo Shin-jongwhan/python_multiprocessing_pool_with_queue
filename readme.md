@@ -48,5 +48,5 @@ if __name__ == "__main__":
 ### <br/><br/><br/>
 
 ### 결과
-#### 설정한 값 대로 pool 개수가 구성된 것대로 출력이 된다.
-#### ![image](https://user-images.githubusercontent.com/62974484/203233938-b3ee151b-f1f2-4d4c-b64a-453ffd1456f7.png)
+#### 설정한 값 대로 pool 개수가 구성된 것대로 리스트로 출력이 되었다.
+#### ![image](https://user-images.githubusercontent.com/62974484/203234244-d25ac628-596e-42f4-a25b-1a4e2b20b2e1.png)
