@@ -28,7 +28,7 @@ if __name__ == "__main__":
     q = Queue()
     n_tmp = 0
     lsQueue_tmp = []
-    for i in range(0, len(lsFile), n_process) :      # qeueue init
+    for i in range(0, len(lsFile), n_process) :      # queue init
         while i + n_tmp < len(lsFile) and n_tmp < n_process : 
             lsQueue_tmp.append(lsFile[i + n_tmp])
             n_tmp += 1
